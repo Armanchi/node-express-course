@@ -1,7 +1,10 @@
-// local
+
+//local
 const secret = 'SUPER SECRET'
-// share
+//share
 const john = 'john'
 const peter = 'peter'
 
-module.exports = { john, peter }
+
+//setting up the object
+module.exports = {john,peter}

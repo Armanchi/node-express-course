@@ -1,2 +1,5 @@
-module.exports = "hello world!"
+const sentence = "hello world!"
+
+
+module.exports = {sentence}
 // exports.sentence = sentence;

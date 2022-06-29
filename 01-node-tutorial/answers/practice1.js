@@ -20,7 +20,7 @@ console.log(user.username)
 
 // practice.txt file with practice2 and os info
  writeFile(
-    './content/practice.txt',`${sentence},${user.username}`,
+    '../content/practice.txt',`${sentence},${user.username}`,
     (err)=> {
         if (err) {
             console.log(err)

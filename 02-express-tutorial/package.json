@@ -1,13 +1,10 @@
 {
   "name": "2-express-tutorial",
-  "name": "new-public",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "main": "practiceExpress",
   "scripts": {
-    "start": "app.js", 
-    "start": "nodemon practiceExpress.js"
+    "start": "app.js"
   },
   "keywords": [],
   "author": "",

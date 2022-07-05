@@ -20,7 +20,7 @@ const makeFile = async()=>{
             writeFile('./content/practice2.txt', `${write} ${i}\n`, {flag:'a'} )
             console.log('first')
         }
-    }
+    } 
     catch(err) {
         console.log(err)
     }  
